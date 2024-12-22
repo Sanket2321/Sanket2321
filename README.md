@@ -10,16 +10,15 @@ Reach out to me:
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanket-sonawane-74a873253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 🌐 Portfolio: [Sanket’s Portfolio](https://showcase.talenlio.com/w/Resume-52744)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2321&show_icons=true&hide=prs,issues&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2321)
-
-
-
 [![Sanket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2321)](https://github.com/Sanket2321/github-readme-activity-graph)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sanket2321&theme=dark)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2321&show_icons=true&hide=prs,issues&count_private=true)
-![Total Commits](https://img.shields.io/github/commit-activity/m/Sanket2321/ECommerece_Project)
+
+
+
 
 
 
