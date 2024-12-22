@@ -13,6 +13,7 @@ Portfolio Link:[Portfolio](https://showcase.talenlio.com/w/Resume-52744)
 
 [![Sanket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2321)](https://github.com/Sanket2321/github-readme-activity-graph)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sanket2321&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanket2321)
 
 
 
