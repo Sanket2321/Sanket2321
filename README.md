@@ -19,6 +19,8 @@ Reach out to me:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sanket2321&theme=dark)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2321&show_icons=true&hide=prs,issues&count_private=true)
+![Total Commits](https://img.shields.io/github/commit-activity/m/Sanket2321/YourRepositoryName)
+
 
 
 
