@@ -18,6 +18,8 @@ Reach out to me:
 [![Sanket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2321)](https://github.com/Sanket2321/github-readme-activity-graph)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sanket2321&theme=dark)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2321&show_icons=true&hide=prs,issues&count_private=true)
+
 
 
 
