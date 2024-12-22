@@ -9,6 +9,8 @@ Portfolio Link:[Portfolio](https://showcase.talenlio.com/w/Resume-52744)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2321)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2321)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2321&show_icons=true&theme=radical)
+
 
 
 
