@@ -6,12 +6,11 @@ I'm Sanket Sonawane, passionate about Java full stack development with a focus o
 
 Portfolio Link:[Portfolio](https://showcase.talenlio.com/w/Resume-52744)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2321)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2321)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket2321&show_icons=true&theme=radical)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Sanket2321&theme=react-dark)
+
 [![Sanket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2321)](https://github.com/Sanket2321/github-readme-activity-graph)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sanket2321&theme=dark)
 
