@@ -1,8 +1,8 @@
 
 
-Sanket Sonawane | Aspiring Software Engineer | Java Backend Enthusiast
+Sanket Sonawane | Aspiring Software Engineer | Backend Enthusiast
 
-I am passionate aboutbfull-stack development, with a strong focus on backend systems. I have a solid foundation in Java and am always eager to learn and contribute to impactful projects.
+I am passionate about full-stack development, with a strong focus on backend systems. I have a solid foundation in Java and am always eager to learn and contribute to impactful projects.
 
 Reach out to me:
 
