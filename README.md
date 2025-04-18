@@ -47,3 +47,31 @@ I am passionate about full-stack development, with a strong focus on backend sys
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/JVM-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanket2321&show_icons=true&theme=radical" alt="Sanket's GitHub Stats" />
+</p>
+
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket2321&layout=compact&theme=radical" alt="Sanket's Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanket2321&theme=radical" alt="Sanket's Contribution Streak" />
+</p>
+
+---
+
+Thank you for visiting my profile! Let's connect and build amazing things together 🚀
