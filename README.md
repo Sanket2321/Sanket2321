@@ -33,12 +33,7 @@ I am passionate about full-stack development, with a strong focus on backend sys
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
- 
-</p>
+
 
 ### 🧰 Tools & Utilities
 <p align="left">
