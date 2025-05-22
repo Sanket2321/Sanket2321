@@ -9,7 +9,7 @@ I am passionate about full-stack development, with a strong focus on backend sys
 ### 📫 Reach Out to Me:
 - 📧 **Email:** sanketsonawane016@gmail.com  
 - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sanket-sonawane-74a873253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🌐 **Portfolio:** [Sanket’s Portfolio](https://showcase.talenlio.com/w/Resume-52744)
+
 
 ---
 
@@ -30,7 +30,7 @@ I am passionate about full-stack development, with a strong focus on backend sys
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 </p>
 
 
