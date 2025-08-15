@@ -1,72 +1,47 @@
-# 👋 Welcome to My GitHub Profile!
+<h2 align="left">Hi 👋! My name is Sanket Sonawane and I'm a passionate Java Full Stack Developer from India</h2>
 
-### Sanket Sonawane | Aspiring Software Engineer | Backend Enthusiast
+###
 
-I am passionate about full-stack development, with a strong focus on backend systems. I have a solid foundation in Java and am always eager to learn and contribute to impactful projects.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanket2321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket2321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 📫 Reach Out to Me:
-- 📧 **Email:** sanketsonawane016@gmail.com  
-- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sanket-sonawane-74a873253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-## 🚀 Tech Stack
+###
 
-### 💻 Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/sanket-sonawane-74a873253" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sanketsonawane016@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+###
 
-</p>
+<br clear="both">
 
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-</p>
-
-
-
-### 🧰 Tools & Utilities
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/JVM-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanket2321&show_icons=true&theme=radical" alt="Sanket's GitHub Stats" />
-</p>
-
----
-
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket2321&layout=compact&theme=radical" alt="Sanket's Top Languages" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanket2321&theme=radical" alt="Sanket's Contribution Streak" />
-</p>
-
----
-
-Thank you for visiting my profile! Let's connect and build amazing things together 🚀
+<img src="https://raw.githubusercontent.com/sanket2321/sanket2321/output/snake.svg" alt="Snake animation" />
