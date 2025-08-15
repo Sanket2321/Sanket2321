@@ -1,133 +1,209 @@
-# Sanket Sonawane | Full Stack Developer 👨‍💻
+# Hi 👋, I'm Sanket Sonawane
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MSc+Computer+Science+Student;Full+Stack+Java+Developer;React+%7C+Spring+Boot+%7C+Flutter)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;MSc+Computer+Science+Student;React+%7C+Spring+Boot+%7C+Flutter;Always+Learning+Something+New!)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sanket2321&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Sanket2321?style=for-the-badge&color=orange)](https://github.com/Sanket2321?tab=followers)
 
 </div>
 
 ---
 
-## 👨‍🎓 Professional Summary
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a dedicated **MSc Computer Science student** at Indira College, Pune, with a strong passion for **Full Stack Java Development**. Currently expanding my expertise in modern web technologies and mobile app development, I thrive on building scalable solutions and contributing to innovative projects.
+## 🚀 About Me
 
-### 🎯 Current Focus
-- **Backend Development:** Spring Boot, RESTful APIs, Microservices
-- **Frontend Development:** React.js, JavaScript (ES6+), HTML5/CSS3
-- **Mobile Development:** Flutter, Cross-platform applications
-- **Database Technologies:** MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps:** Docker, Git, CI/CD pipelines
+- 🎓 **MSc Computer Science** student at Indira College, Pune
+- 💻 Passionate about **Full Stack Java Development**
+- 🌱 Currently learning **React, Spring Boot, and Flutter**
+- 🔭 Working on **Real-time collaborative projects**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Java, React, Spring Boot, Flutter**
+- ⚡ Fun fact: **I love debugging more than writing code!**
+- 📫 Reach me at: **sanketsonawane016@gmail.com**
+
+<br clear="both">
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Languages and Tools
 
 <div align="center">
 
-### Languages & Frameworks
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Databases & Tools
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanket2321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2321&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanket2321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket2321&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanket2321&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanket2321&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 What I'm Working On
+## 📈 Activity Graph
 
-- 🔭 **Currently Building:** Full-stack web applications using React and Spring Boot
-- 🌱 **Learning:** Advanced React patterns, Spring Security, and Flutter state management
-- 👯 **Open to Collaborate:** Real-time applications, open-source projects, and innovative solutions
-- 💡 **Interested In:** Microservices architecture, cloud deployment, and modern development practices
+<div align="center">
+
+[![Sanket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2321&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## 🏆 Key Projects & Contributions
+## 🏆 GitHub Trophies
 
-```javascript
-const myProjects = {
-    focus: "Full Stack Development",
-    technologies: ["Java", "React", "Spring Boot", "Flutter"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    currentLearning: ["Advanced React", "Microservices", "Cloud Technologies"],
-    collaboration: "Open for innovative real-time projects"
-};
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sanket2321&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Java         8 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.2%
+JavaScript   3 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.8%
+React        2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.9%
+Flutter      1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.8%
+SQL          1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
 ```
+<!--END_SECTION:waka-->
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  
-[![Sanket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanket2321&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://github.com/Sanket2321/Sanket2321/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🌐 Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-sonawane-74a873253/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://showcase.talenlio.com/w/Resume-52744)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketsonawane016@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket2321)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanket.2321)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanket2321)
 
 </div>
 
 ---
 
-## 💼 Professional Interests
+## 💰 Support My Work
 
-- **Full Stack Development:** Building end-to-end web applications
-- **Mobile App Development:** Creating cross-platform solutions with Flutter
-- **Software Architecture:** Designing scalable and maintainable systems
-- **Open Source:** Contributing to community-driven projects
-- **Continuous Learning:** Staying updated with latest technology trends
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sanket2321)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sanket2321)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable REST APIs with Spring Boot](https://example.com/blog1)
+- [React Best Practices for 2024](https://example.com/blog2)  
+- [Flutter vs React Native: Which to Choose?](https://example.com/blog3)
+- [Database Design Patterns Every Developer Should Know](https://example.com/blog4)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Current Goals
+
+- 🔥 Contribute to **100+ open source projects**
+- 🚀 Build **5 full-stack applications** this year
+- 📚 Master **Microservices Architecture** 
+- 🏆 Achieve **1000+ GitHub stars** across projects
+- 💼 Land a **Senior Full Stack Developer** role
+
+---
+
+## ⚡ Fun Facts
+
+- 🎮 I love playing strategic games in my free time
+- ☕ Coffee enthusiast - can't code without it!
+- 📚 Currently reading: "Clean Architecture" by Robert Martin
+- 🎵 Coding playlist: Lo-fi hip hop beats
+- 🏃‍♂️ Weekend warrior - love hiking and cycling
 
 ---
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 
+### Show some ❤️ by starring some of the repositories!
 
-**Thanks for visiting my profile!** Feel free to reach out for collaborations or just to say hi! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sanket2321&color=blueviolet&style=flat-square&label=Profile+Views)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Sanket2321">Sanket2321</a> - Let's build something amazing together!</i>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
