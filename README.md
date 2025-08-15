@@ -46,16 +46,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ### Backend Development
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -119,7 +113,6 @@
 <!--START_SECTION:waka-->
 ```text
 Java         8 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.2%
-JavaScript   3 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.8%
 React        2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.9%
 Flutter      1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.8%
 SQL          1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
@@ -163,34 +156,24 @@ SQL          1 hr 28 mins    ██░░░░░░░░░░░░░░░
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable REST APIs with Spring Boot](https://example.com/blog1)
-- [React Best Practices for 2024](https://example.com/blog2)  
-- [Flutter vs React Native: Which to Choose?](https://example.com/blog3)
-- [Database Design Patterns Every Developer Should Know](https://example.com/blog4)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ## 🎯 Current Goals
 
-- 🔥 Contribute to **100+ open source projects**
+- 🔥 Contribute to **15+ open source projects**
 - 🚀 Build **5 full-stack applications** this year
 - 📚 Master **Microservices Architecture** 
-- 🏆 Achieve **1000+ GitHub stars** across projects
+- 🏆 Achieve **100+ GitHub stars** across projects
 - 💼 Land a **Senior Full Stack Developer** role
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🎮 I love playing strategic games in my free time
 - ☕ Coffee enthusiast - can't code without it!
 - 📚 Currently reading: "Clean Architecture" by Robert Martin
-- 🎵 Coding playlist: Lo-fi hip hop beats
-- 🏃‍♂️ Weekend warrior - love hiking and cycling
+- 🎵 Coding playlist: Lo-fi
+- 🏃‍♂️ Weekend warrior - Trekking
 
 ---
 
