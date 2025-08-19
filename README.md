@@ -19,10 +19,8 @@
 
 - 🎓 **MSc Computer Science** student at Indira College, Pune
 - 💻 Passionate about **Full Stack Java Development**
-- 🌱 Currently learning **React, Spring Boot, and Flutter**
-- 🔭 Working on **Real-time collaborative projects**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, React, Spring Boot, Flutter**
+
+- 💬 Ask me about **Java, React, Spring Boot **
 - ⚡ Fun fact: **I love debugging more than writing code!**
 - 📫 Reach me at: **sanketsonawane016@gmail.com**
 
@@ -36,10 +34,7 @@
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,13 +43,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ### Backend Development
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -113,7 +105,6 @@
 <!--START_SECTION:waka-->
 ```text
 Java         8 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.2%
-React        2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.9%
 Flutter      1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   9.8%
 SQL          1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.3%
 ```
@@ -160,7 +151,6 @@ SQL          1 hr 28 mins    ██░░░░░░░░░░░░░░░
 
 ## 🎯 Current Goals
 
-- 🔥 Contribute to **15+ open source projects**
 - 🚀 Build **5 full-stack applications** this year
 - 📚 Master **Microservices Architecture** 
 - 🏆 Achieve **100+ GitHub stars** across projects
